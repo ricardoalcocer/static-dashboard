@@ -1,4 +1,4 @@
-Quick and Dirty Static Dashboard
+Quick and Dirty Responsive Static Dashboard
 ================================
 
  
