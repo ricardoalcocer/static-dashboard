@@ -4,7 +4,7 @@ Quick and Dirty Static Dashboard
  
 
 I build this some time ago and never used it. The idea was to have a static
-analitics dashboard that could be updated by simply overwriting a JSON file.
+analytics dashboard that could be updated by simply overwriting a JSON file.
 
  
 
