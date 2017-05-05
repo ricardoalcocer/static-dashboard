@@ -28,7 +28,7 @@ var dataSources = {
 Basic Screenshot
 ================
 
-![](http://drops.ricardoalcocer.com/contentful_drops/Screen%20Shot%202017-04-24%20at%2012.37.23%20PM.png)
+![](http://drops.ricardoalcocer.com/contentful_drops/Screen%20Shot%202017-05-05%20at%201.01.36%20PM.png)
 
 License
 =======
